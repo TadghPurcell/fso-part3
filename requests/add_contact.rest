@@ -1,0 +1,7 @@
+Post http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Tadgh Purcell",
+    "number": "02-279-372823"
+}
