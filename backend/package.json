@@ -23,7 +23,10 @@
   "homepage": "https://github.com/TadghPurcell/fso-part3#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.4",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
